@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Ahmed Yougil
 
-🔧 I'm a full-stack developer passionate about building real-world projects with Laravel, React, and Node.js.
+🔧 I'm a full-stack developer passionate about building real-world projects with Laravel, React.
 
 ## 🚀 Projects
 - **Auxilio**: A platform connecting families with real-world service providers like nannies, cooks, and trainers.
